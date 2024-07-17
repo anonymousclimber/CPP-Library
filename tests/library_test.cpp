@@ -1,5 +1,5 @@
 #include <iostream>
-int main
+int main()
 {
     std::cout << "Example main application."; 
     return 0;
